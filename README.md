@@ -1,14 +1,14 @@
 ## Description 🐱 
 
 These are my own projects, which were carried out with different programming languages:
-🐺The first one is from a Pong game worked in Python
-🐺The second is a game worked in Unity with the C# programming language and object-oriented programming.
-🐺The third is an automated feeder using arduino which uses C++ as a programming language.
+-🐺The first one is from a Pong game worked in Python
+-🐺The second is a game worked in Unity with the C# programming language and object-oriented programming.
+-🐺The third is an automated feeder using arduino which uses C++ as a programming language.
 
 ## Autor -
 **Juanita Mejia**
 
-*[LinKedIn] (https://www.linkedin.com/in/juanimp/)
+* [LinKedIn] (https://www.linkedin.com/in/juanimp/)
 
 ## Facility
 Keep in mind that to use any of these projects and open it you must:
