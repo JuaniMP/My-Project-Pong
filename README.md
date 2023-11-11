@@ -8,7 +8,7 @@ These are my own projects, which were carried out with different programming lan
 
 🐺The third is an automated feeder using arduino which uses C++ as a programming language.
 
-## Autor -
+## Autor ✒️
 **Juanita Mejia**
 
 * [LinKedIn] (https://www.linkedin.com/in/juanimp/)
