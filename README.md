@@ -1,4 +1,3 @@
-
 ## Description 🐱 
 
 These are my own projects, which were carried out with different programming languages:
